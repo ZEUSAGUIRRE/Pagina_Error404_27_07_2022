@@ -27,6 +27,9 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
+    background: #ffffff2e;
+    backdrop-filter: blur(4px);
+    padding-bottom: 10px;
 }
 .wrapper h1 {
     font-size: 3rem;
